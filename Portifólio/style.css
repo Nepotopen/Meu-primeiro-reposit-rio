@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+    background-color: darkkhaki;
+}
+
+.conceito {
+    border: 3px solid firebrick;
+
+    color: #3523dd;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: rgb(171, 231, 231);
+    display: flex;
+    flex-direction: row;
+ 
+}
+
+.resumo {
+    border: 3px solid white;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: aliceblue;
+}
+
+.Gif {border: 2px solid grey}
